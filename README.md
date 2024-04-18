@@ -1,33 +1,28 @@
 # CalorieWise
 
-Flixx App is a web application that showcases popular movies and TV shows, allowing users to explore detailed information about them. It is built with HTML, CSS, and JavaScript, and utilizes the TMDB API v3 for data retrieval.
+CalorieWise is a simple calorie counter app built with vanilla JavaScript. It tracks your meals and workouts and calculates the total calories burned and consumed.
 
 ## Features
 
-- Display popular movies and TV shows
-- Detailed pages for movies and TV shows
-- Search functionality with pagination support
-- Slider showcasing currently playing movies in theaters using the Swiper library
+- Track meals and workouts
+- Calculate total calories burned and consumed
+- Single-page application design for easy navigation
+- Simple and intuitive user interface
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- TMDB API v3
-- Swiper library
 
 ## Usage
 
-- Explore popular movies and TV shows
-- Use the search bar to find specific movies or TV shows
-- Click on a movie or TV show to view detailed information
+- Enter your meals and workouts to track your daily calorie intake and expenditure
+- View your total calories burned and consumed to help achieve your fitness goals
 
 ## Deployment
 
-This project is deployed on Netlify. You can access it [here](https://flixxmoviesandshows.netlify.app/).
+This project is deployed on Netlify. You can access it [here](https://github.com/sumbulvohra125/CalorieWise).
 
 ## Screenshots
-
 ![Alt text](image.png)
-![Alt text](image-1.png)
